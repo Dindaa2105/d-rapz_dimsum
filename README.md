@@ -25,6 +25,8 @@ Cara Menjalankan Aplikasi:
 
 Pastikan:
 - XAMPP (MySQL) aktif
+- MySQL JDBC Connector:
+https://dev.mysql.com/downloads/connector/j/
 - `mysql-connector-java.jar` sudah terpasang di project
 
 Terima Kasih...
