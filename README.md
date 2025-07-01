@@ -7,6 +7,7 @@ Anggota Kelompok :
 4. Panca Dipa (231011401846)
 
 Isi Folder ini :
+[Laporan Hasil Pembuatan Aplikasi pemesanan D'rapz_dimsum.pdf](https://github.com/user-attachments/files/21000297/Laporan.Hasil.Pembuatan.Aplikasi.pemesanan.D.rapz_dimsum.pdf)
 -Laporan proyek aplikasi.pdf
 -d'rapz_dimsum.sql File database
 -SourceCode_Java_Netbeans_drapz_dimsum (folder berisi project java netbeans)
